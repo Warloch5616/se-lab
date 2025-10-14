@@ -28,6 +28,9 @@ public class TorpedoStore {
     }
   }
 
+
+  
+  
   private Random generator = new Random();  
 
   public boolean fire(int numberOfTorpedos){
